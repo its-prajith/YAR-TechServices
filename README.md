@@ -1,26 +1,24 @@
 # YAR-TechServices
 YAR Tech Services is a leading technology solutions provider, dedicated to delivering innovative and cutting-edge technology services to businesses of all sizes.
 
-YAR TECH SERVICES has been hosted using Netlify.
+YAR TECH SERVICES has been hosted using Git.
 Here's the link : https://its-prajith.github.io/YAR-TechServices/
 
 
 Sample Screendshots Below,
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 29 40 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/27bba4e2-8aa3-40a2-aae2-e15307299b19">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 35 50 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/2f479d54-657a-4a03-a510-bcfdec454c82">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 30 07 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/9260fde7-07ea-4551-994a-a8c7b0f100fb">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 36 07 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/ca9f04cc-4edf-409a-a5b2-4575829db223">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 30 31 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/99b7ede9-e7b8-4ce3-8454-9e1d69f540bd">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 36 22 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/8330c692-579a-41ce-bde4-7abb5c393fff">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 30 55 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/59966b25-dae7-4d3b-aef2-75b57940e8a1">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 36 42 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/bb8ea247-5672-43b5-ba09-da2d86d4ea6b">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 31 18 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/a52ef35d-2dac-46f0-8514-d9ce9b9fc649">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 36 57 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/1ce58f68-24f9-47fe-a5f0-84c538875bc7">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 31 36 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/f95ac430-a771-411a-a50a-a96ee49bd284">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 37 16 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/2d04986f-70d6-4fc1-8cab-188edca01292">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 31 54 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/c8397512-3d31-4624-9ebc-bf851c3d962f">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 37 39 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/a08b76b2-ddf0-4bb2-a073-29387ef24ddf">
 
-<img width="1439" alt="Screenshot 2024-06-10 at 7 32 08 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/6ac1a020-548c-4de5-a4b2-a89bdf3f8301">
-
-<img width="1439" alt="Screenshot 2024-06-10 at 7 32 25 PM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/07bd7f5c-13e8-4e7e-b114-db4e12c7874a">
+<img width="1440" alt="Screenshot 2024-06-14 at 12 37 49 AM" src="https://github.com/its-prajith/YAR-TechServices/assets/133893037/369ffecd-ce3a-49da-b662-093da4f27949">
