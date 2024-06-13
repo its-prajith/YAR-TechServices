@@ -2,7 +2,7 @@
 YAR Tech Services is a leading technology solutions provider, dedicated to delivering innovative and cutting-edge technology services to businesses of all sizes.
 
 YAR TECH SERVICES has been hosted using Netlify.
-Here's the link : https://yar-techservices.netlify.app/
+Here's the link : https://its-prajith.github.io/YAR-TechServices/
 
 
 Sample Screendshots Below,
